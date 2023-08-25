@@ -5,3 +5,5 @@ novolivro.info()
 
 outrolivro = Livro('1984', 'George Orwell', '1950')
 outrolivro.info()
+
+maisoutrolivro = Livro('1', '2', '3')
